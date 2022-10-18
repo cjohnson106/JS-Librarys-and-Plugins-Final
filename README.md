@@ -1,6 +1,6 @@
-# Web 3 Boilerplate
+# JS-Librarys-and-Plugins-Final
+
+[Curve Text](https://circletype.labwire.ca/)
 
 <a 
-href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-3-boilerplate"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
-
+href="https://js-librarys-and-plugins.netlify.app/">
